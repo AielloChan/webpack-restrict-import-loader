@@ -1,0 +1,30 @@
+{
+  "name": "webpack-restrict-import-loader",
+  "version": "0.0.1-beta.1",
+  "description": "A webpack loader can restrict import file relation. Useful in team codebase management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AielloChan/webpack-restrict-import-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "restrict",
+    "import"
+  ],
+  "author": "AielloChan <aiello.chan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AielloChan/webpack-restrict-import-loader/issues"
+  },
+  "homepage": "https://github.com/AielloChan/webpack-restrict-import-loader#readme",
+  "dependencies": {
+    "acorn": "^8.7.0",
+    "acorn-walk": "^8.2.0",
+    "loader-utils": "^3.2.0"
+  }
+}
