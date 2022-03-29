@@ -61,7 +61,7 @@ const webpackConfig = {
 };
 ```
 
-Finally, just run your webpack dev or build, you'll see some worning when 
+Finally, just run your webpack dev or build, you'll see some warning when 
 
 ## Options
 
